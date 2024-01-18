@@ -1,0 +1,39 @@
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.5;
+}
+
+nav {
+  position: fixed;
+  margin-top: 1px;
+  width: 250px;
+  height: 600px;
+
+  border-right: 3px solid gray;
+  line-height: 1.8;
+  overflow: scroll;
+}
+a {
+  display: block;
+  border-top: 1px solid gray;
+  color: gray;
+  line-height: 2.5;
+  color: rgb(88, 81, 81);
+}
+a:link {
+  text-decoration: none;
+}
+.main-section {
+  margin-left: 270px;
+}
+li {
+  margin-left: 80px;
+  color: rgb(88, 81, 81);
+}
+p {
+  margin-left: 50px;
+  color: rgb(88, 81, 81);
+}
+header {
+  margin-left: 20px;
+}
